@@ -1,0 +1,24 @@
+.spin-container, .spin-container-hover {
+  height: 10vmin;
+  pointer-events: none;
+  border-radius: 15px;
+  margin: 30px;
+}
+.spin-title {
+  margin-bottom: 0px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .spin-container-hover {
+    animation: spin-container-hover infinite 0.5s linear;
+  }
+}
+
+@keyframes spin-container-hover {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

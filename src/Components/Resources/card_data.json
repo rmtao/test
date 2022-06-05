@@ -1,0 +1,712 @@
+{
+	"cards": [
+		{
+			"type": "activity",
+			"text": "Secretly choose a player – describe them in 1 word. The first person to guess correctly gives 1 drink.",
+			"image": "describe.png",
+			"alt": "one word, no."
+		},
+		{
+			"type": "decree",
+			"text": "Everyone must use pleasantries (please, thank you, kindly) and swear in every sentence. Discard after 3 rounds.",
+			"expire": 3,
+			"image": "fuck.png",
+			"alt": "please, fuck"
+		},
+		{
+			"type": "activity",
+			"text": "Going player order, name countries in Europe. First one to mess up takes 1 drink.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "curse",
+			"text": "You can only hold your drink with both fists; if you can’t, take 1 drink.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "skill",
+			"text": "Every time you say whoop whoop, everyone say hooray. Whoever does not, takes 1 drink.",
+			"image": "whoop.gif",
+			"alt": "whoop whoop"
+		},
+		{
+			"type": "activity",
+			"text": "Going reverse order, each player says something that they’ve never done. Every player who has done it, puts one finger down. First player to run out, takes 2 drinks.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "curse",
+			"text": "Use your drink as a microphone every time you speak, if you mess up you take 1 drink.",
+			"image": "microphone.png",
+			"alt": "open mic night"
+		},
+		{
+			"type": "decree",
+			"text": "Everyone must sing their name before taking 1 drink",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "activity",
+			"text": "Last person to turn off video takes 1 drink.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "curse",
+			"text": "You cannot put down your drink while you have this card. Take 1 drink if you mess up.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "skill",
+			"text": "You can charge anyone who goes off camera without reason with 1 drink.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "decree",
+			"text": "Everyone must drink with their pinky extended. Whoever forgets takes 1 drink.",
+			"image": "pinky.png",
+			"alt": "pinkies up!"
+		},
+		{
+			"type": "activity",
+			"text": "Everyone votes on a topic, you must give a lecture on it for the next 2 minutes. Take 1 drink if you refuse or fail.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "skill",
+			"text": "When you cross your arms, everyone must freeze. Last to do so must drink. Discard after 3 rounds.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "curse",
+			"text": "You can only refer to yourself in third person. If you mess up, take 1 drink.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "decree",
+			"text": "Everyone comes up with a pornstar name for themselves, whoever forgets to use them takes 1 drink.",
+			"image": "pornstar.png",
+			"alt": "[your pornstar name here]"
+		},
+		{
+			"type": "skill",
+			"text": "You are Dr. Escobar. Choose one player to end every sentence with, 'It’s not Keebler elves. It’s biochemistry.' If they forget, they take 1 drink. Discard after 2 rounds.",
+			"expire": 2,
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "activity",
+			"text": "Hum a song of your choice; first person who guesses correctly can give 1 drink to someone.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "curse",
+			"text": "Take 1 drink every time you swear.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "skill",
+			"text": "You can give a drink to anyone you see using their phone (unless they’re using it to video chat).",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "decree",
+			"text": "Everyone comes up with a superhero name for themselves, whoever forgets to use them takes 1 drink.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "skill",
+			"text": "Channel you inner Tim Gunn. Call out a theme for a fashion show and all other players have 3 minutes to prepare. You pick the winner. Fashion Faux pas drink.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "activity",
+			"text": "Pick a player; they must tell 2 truths and a lie. You must guess the lie. If you guess correctly, they must take 1 drink. If not, you take one drink.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "curse",
+			"text": "Mummify your face with toilet paper for 4 minutes. If your refuse, you take 1 drink.",
+			"image": "toiletpaper.png",
+			"alt": "mommy"
+		},
+		{
+			"type": "skill",
+			"text": "You can silence one player for 2 rounds. If they speak outside of reading their card, they must take 1 drink.",
+			"expire": 2,
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "activity",
+			"text": "Pick 2 players and turn them into animals. They must make animal sounds at each other. First one to laugh takes 1 drink.",
+			"image": "animals.png",
+			"alt": "We're animals baby"
+		},
+		{
+			"type": "skill",
+			"text": "You are now an aggressive teacher. Ask random questions and force people to answer. If they don’t know the answer, they must take 1 drink.",
+			"image": "teacher.gif",
+			"alt": "answer the question!"
+		},
+		{
+			"type": "decree",
+			"text": "Everyone must tap their head 3 times at the end of their turn.  Whoever forgets takes 1 drink.",
+			"image": "taptaptap.gif",
+			"alt": "taptaptap"
+		},
+		{
+			"type": "curse",
+			"text": "You must hold a military salute with your dominant hand until 5 drinks are taken by you or others. If you move prematurely, take 1 drink and start over.",
+			"image": "salute.gif",
+			"alt": "UH-TEN-SHUN"
+		},
+		{
+			"type": "decree",
+			"text": "Everyone must run and touch a wall, then a window, and sing 'Get Low' whenever someone has to sing anything.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "activity",
+			"text": "Recite the alphabet backwards while standing on 1 leg and holding a finger to your nose. Take 1 drink if you mess up.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "curse",
+			"text": "You are now the time keeper. You must give the time whenever any player asks without hesitation. If you say the wrong time, take 1 drink. Discard after 3 rounds.",
+			"expire": 3,
+			"image": "time.gif",
+			"alt": "what time is it?"
+		},
+		{
+			"type": "activity",
+			"text": "Take a drink from the opposite side of your cup.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "skill",
+			"text": "You are now Queen of the Universe. You can force people to bow to your Excellence for the next 3 rounds.",
+			"expire": 3,
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "decree",
+			"text": "Everyone needs to speak in Pig Latin for their next 3 turns. Whoever forgets or fails to do so must take 1 drink.",
+			"expire": 3,
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "curse",
+			"text": "You must now speak with a pompous English accent. If you get caught using your normal voice, take 1 drink.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "activity",
+			"text": "Everyone who is single takes 1 drink",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "decree",
+			"text": "Going clockwise, each person must repeat a line from Cotton Eye Joe at the end of each turn. If you fail, take 1 drink.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "activity",
+			"text": "Take 1 drink for each cat you have.",
+			"image": "cat.png",
+			"alt": "kittyyyy"
+		},
+		{
+			"type": "curse",
+			"text": "Keep one eye closed for 2 rounds; if you mess up take 1 drink and start over.",
+			"expire": 2,
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "activity",
+			"text": "Everyone who is in a relationship takes 1 drink.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "curse",
+			"text": "You must touch your nose continuously for 3 rounds. If at any point you are not touching your nose, you must take 1 drink and start over.",
+			"expire": 3,
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "activity",
+			"text": "Spell each player’s name backwards; if you mess up, take 1 drink.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "skill",
+			"text": "Issue your own decree, but take 2 drinks every time you do.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "activity",
+			"text": "Going clockwise, each player says their best pickup line. If people think it’s good, they take a drink. If nobody thinks it’s good, you take a drink.",
+			"image": "",
+			"alt": "pic"			
+		},
+		{
+			"type": "curse",
+			"text": "When you take 1 drink, choose another player to take drinks with you.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "activity",
+			"text": "Everyone born in the same month as you must take 1 drink.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "skill",
+			"text": "Pick two players. They each must roast each other. The other players must vote on who had the better roast. The loser must take 1 drink.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "activity",
+			"text": "Silently act out 1 scene from a movie. First player to guess correctly gives 1 drink.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "curse",
+			"text": "You must now speak as an elderly person who will occasionally reminisce about the good old days. If you get caught using your normal voice, take 1 drink.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "activity",
+			"text": "Everyone votes on an object. You must take a selfie with object and post on social media. If you refuse, take 2 drinks.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "decree",
+			"text": "Everyone must avoid filler words (Um, Like, So) for 3 rounds. If you forget, take 1 drink.",
+			"expire": 3,
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "curse",
+			"text": "Speak in an Italian accent. If you get caught using your normal voice, take 1 drink.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "activity",
+			"text": "Twerk in front of everyone. If you refuse, take 2 drinks.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "skill",
+			"text": "Make a hat out of something. If it falls, take 1 drink and then add another object.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "activity",
+			"text": "Player order, each player says a euphemism for sex. First to “shoot a blank” takes 2 drinks.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "activity",
+			"text": "In player order, each player lists an alcoholic drink. The first person to fail takes 1 drink.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "skill",
+			"text": "You are now Gordon Ramsey. Select one player. Instruct them to open their fridge. You can select 3 ingredients for them to mix together and taste. If they refuse, they take 1 drink and you can call them an idiot sandwich.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "activity",
+			"text": "Take 1 drink for each dog you have.",
+			"image": "dog.png",
+			"alt": "luca!"
+		},
+		{
+			"type": "activity",
+			"text": "Take 1 drink for every date you’ve been on in the past 2 weeks.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "activity",
+			"text": "Take 1 drink for each sibling you have.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "decree",
+			"text": "Everyone must take a selfie of themselves before they speak. If you forget, take 1 drink. At the end of 2 turns, whoever has the most selfies that were taken in that frame takes 1 drink.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "activity",
+			"text": "Everyone currently wearing earrings must take 1 drink.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "skill",
+			"text": "Pick one player. They must recite every players birthday. For each birthday they get incorrect, they must drink.",
+			"image": "birthday.gif",
+			"alt": "happy birthday"
+		},
+		{
+			"type": "activity",
+			"text": "Pick someone to take 1 drink. Then reverse the direction that cards are drawn.",
+			"image": "reverse.png",
+			"alt": "uno reverse"
+		},
+		{
+			"type": "activity",
+			"text": "Take a sip and hold it for 30 seconds. Everyone else has to make you laugh. If they fail, they each take 1 drink.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "curse",
+			"text": "You must raise your hand and wait until called on to speak for 2 rounds. If you’re caught speaking without permission, take 1 drink.",
+			"expire": 2,
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "activity",
+			"text": "Randomly select a player - that person will give you a truth or dare option; if you refuse, take 2 drinks.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "decree",
+			"text": "Select a letter. Nobody can speak a word with that letter. Whoever fails, takes 1 drink. Discard after 2 rounds.",
+			"expire": 2,
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "activity",
+			"text": "In player order, each player tells a joke. If nobody laughs or smiles, person who told joke takes a drink. If someone laughs, they can give out 2 drinks.",
+			"image": "laugh.gif",
+			"alt": "I'm the joke :("
+		},
+		{
+			"type": "curse",
+			"text": "You are Sleeping Beauty.  Every time another player says the words listed below you must pretend to fall asleep. If you fail to do so, you must take 1 drink. Discard after 3 rounds.",
+			"expire": 3,
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "activity",
+			"text": "Put lipstick on; if you refuse or if there is none around, take 2 drinks.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "skill",
+			"text": "Pick one player. They must refer to everyone by their Zodiac signs only for 2 rounds. If they forget, they must take 2 drinks.",
+			"expire": 2,
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "activity",
+			"text": "Pick a player and guess their underwear color. If you guess correctly, they take 1 drink. If you don’t, you take 1 drink.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "activity",
+			"text": "Imitate another player. Other players guess the impression. Wrong guesses take 1 drink. Whoever guesses correctly takes 1 drink.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "activity",
+			"text": "Say a toast and everybody takes 1 drink.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "skill",
+			"text": "Pick one player to ask one question truthfully. If they refuse to answer, they take 1 drink.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "activity",
+			"text": "You are now on Shark Tank! Everyone must choose a random item and create a pitch to sell it. Players vote on the best pitch. The winner chooses someone to drink.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "decree",
+			"text": "Everyone must end with “SHARKBAIT HOO HAHA” for 2 rounds. If you forget, take a drink.",
+			"expire": 2,
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "activity",
+			"text": "Say a category and spell a word from it - with your butt. The first player to guess correctly takes 1 drink.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "activity",
+			"text": "Challenge 2 people to pushup contest. Losers take 1 drink each.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "skill",
+			"text": "Slide into another players DM’s and form a secret alliance, Come up with a secret signal and if some calls you out take a drink and if you successfully complete the gesture 5 times all other players take a drink",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "activity",
+			"text": "Whoever has the lowest battery on the phone has to take 1 drink.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "activity",
+			"text": "Set a category. Say one word related to that category. Going reverse order, the next player has to say your word and add theirs; and so on, repeating the entire string of words, until someone makes a mistake. That player takes 2 drinks.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "decree",
+			"text": "We must do a 'I think ‘X’ will be the drunkest' video whenever someone has to refill their glass",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "activity",
+			"text": "Everyone takes a turn in order saying this quickly 3 times: 'Fabulous french main fried fresh fries then froze three free flying flies in a freezer.' Whoever stumbles, takes 1 drink.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "activity",
+			"text": "Everyone who has a cartilage piercing takes 1 drink.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "skill",
+			"text": "You are now a Yodeler. Once per round, you can interrupt someone with yodeling while they’re talking. The person you interrupted takes 1 drink. Discard after 2 uses.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "activity",
+			"text": "Everyone who has a tattoo takes 1 drink.",
+			"image": "",
+			"alt": "pic"
+		}, 
+		{
+			"type": "decree",
+			"text": "Everyone must take 3 drinks. One for each “E” in decree.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "activity",
+			"text": "Name 8 planets in our solar system. Take 1 drink for each planet you can’t name.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "curse",
+			"text": "Speak in an Irish accent. If you get caught using your normal voice, take 1 drink.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "activity",
+			"text": "Everyone must speak with only 1 syllable words for 1 round. Whoever fails takes 1 drink.",
+			"expire": 1,
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "curse",
+			"text": "Speak like Dr. Baker (Heavy Country drawl). If you’re caught speaking in your normal voice, take 1 drink.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "activity",
+			"text": "Whoever woke up earliest must take a drink",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "decree",
+			"text": "Everyone must play the last song they listened to and players will vote who has the worst taste in music. That person will drink.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "activity",
+			"text": "Pick a word from below. Going in play order, each player must say a word only using letters from your pick. Repeat letters are accepted. Whoever stumbles, takes 1 drink. \nVampires, Centaurs, Mermaids, Minotaurs, Dragons",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "skill",
+			"text": "You can change the order of players",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "activity",
+			"text": "Set a timer for 10 minutes. Using something that can easily wash away, draw a dick on your forehead. If you refuse, take 1 drink.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "curse",
+			"text": "You find inspiration today and start to rhyme everything you say. If you find yourself in doubt, others can help out. You must do this for 2 rounds, take 2 drinks if you break bounds.",
+			"expire": 2,
+			"image": "rhyme.png",
+			"alt": "so inspirational"
+		},
+		{
+			"type": "activity",
+			"text": "Randomly selected player can ask you any question. You must answer truthfully. If you refuse, take 1 drink.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "skill",
+			"text": "You are now Darth Vader. Use the force to make 1 player take a drink.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "activity",
+			"text": "Everyone proposes who should drink and why. Names of the players will be put in chat. On the count of 3, everyone reacts to the person’s name to vote for them to drink.  The person with the most votes takes 1 drink.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "decree",
+			"text": "Everyone must speak without using contractions (Don’t, Won’t, Can’t, etc). Take 1 drink if you mess up.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "activity",
+			"text": "In player order, the group starts naming animals, starting with the last letter of the previous word. First one to mess up takes 1 drink.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "curse",
+			"text": "Speak in a Russian accent. If you’re caught speaking in your normal voice, take 1 drink.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "skill",
+			"text": "You can make one player Dory. They must end every sentence with 'Just Keep Swimming' for 3 rounds. If they forget, they must take 2 drinks.",
+			"expire": 3,
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "activity",
+			"text": "Say a sentence. Going in reverse order, the next person must rhyme their sentence with yours, and so on. Whoever stumbles takes 2 drinks.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "decree",
+			"text": "Choose a word; when spoken, speaker must take 1 drink.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "activity",
+			"text": "Pick another player. Do a dance off. Everyone else votes. Whoever loses dance off, takes 1 drink.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "skill",
+			"text": "You can call people anything you choose. If they correct you, they take 1 drink.",
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "activity",
+			"text": "Reverse order the group counts from 1. Multiples and mentions of 3 are replaced by the sound of your choice. First to mess up takes 1 drink.",
+			"image": "3.gif",
+			"alt": "it's a magic number"
+		},
+		{
+			"type": "decree",
+			"text": "Everyone must name 1 fictional character at the end of each turn. Discard after 2 rounds.",
+			"expire": 2,
+			"image": "",
+			"alt": "pic"
+		},
+		{
+			"type": "activity",
+			"text": "Remove 1 article of clothing or take 1 drink",
+			"image": "strip.gif",
+			"alt": "it's getting hot in here"
+		},
+		{
+			"type": "skill",
+			"text": "Choose one player. Ask them to name the capital city of any state. If they don’t know the answer in 5 seconds, they take 1 drink. If they know the answer, you take 1 drink.",
+			"image": "usa.png",
+			"alt": "USA USA"			
+		}
+	]
+}
