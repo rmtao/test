@@ -29,7 +29,7 @@ function Timer() {
     }
     const displayMinutes = Math.floor(seconds % 3600 / 60);
     const displaySeconds = Math.floor(seconds % 3600 % 60);
-    if (displaySeconds.toString().length == 1) {
+    if (displaySeconds.toString().length === 1) {
       return displayMinutes + ":0" + displaySeconds;
     }
     return displayMinutes + ":" + displaySeconds;
