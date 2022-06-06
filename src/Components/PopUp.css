@@ -18,6 +18,7 @@
     align-items: center;
 
     color: #011627;
+    z-index: 1;
 }
 .popup-x {
     position: fixed;
