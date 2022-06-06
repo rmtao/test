@@ -1,3 +1,4 @@
-p {
+.pagination {
+  font-size: 15px;
   color: darkslategrey;
 }

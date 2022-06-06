@@ -1,10 +1,10 @@
-import React, { useState } from "react";
+import React from "react";
 
 import './Pagination.css';
 
 function Pagination(props) {
   return (
-    <div>
+    <div className="pagination">
       <p>{props.length}/{props.total}</p>
     </div>
   );

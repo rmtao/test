@@ -1,15 +1,15 @@
 import React, { useState, useEffect } from "react";
+import Pagination from './Pagination';
 import './Card.css';
 
 function importAll(r) {
     let images = {};
-    r.keys().map(item => { images[item.replace('./', '')] = r(item); });
+    r.keys().forEach(item => { images[item.replace('./', '')] = r(item); });
     return images;
 }
 
-
-function Card({card: cardValue}) {
-  const images = importAll(require.context('../../public/images', false, /\.png/));
+function Card({card: cardValue, length, total}) {
+  const images = importAll(require.context('../../public/images', false, /\.(png|gif)/));
   
   const [card, setCard] = useState(cardValue);
   useEffect(() => {
@@ -22,7 +22,7 @@ function Card({card: cardValue}) {
       <div className="container">
         <p>{card.text}</p>
         {images[card.image] !== undefined && (<img src={images[card.image].default} alt={card.alt}/>)}
-        
+        <Pagination length={length} total={total} />
       </div>
     </div>
   );
