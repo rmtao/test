@@ -2,12 +2,14 @@
   height: 10vmin;
   pointer-events: none;
   border-radius: 15px;
-  margin: 30px;
+  margin-top: 30px;
 }
 .spin-title {
   margin-bottom: 0px;
 }
-
+.spin-div {
+  margin-bottom: 5px;
+}
 @media (prefers-reduced-motion: no-preference) {
   .spin-container-hover {
     animation: spin-container-hover infinite 0.5s linear;

@@ -8,3 +8,6 @@ button {
   padding:  5px 15px;
   margin: 10px 2px;
 }
+button:disabled {
+  background-color: lightgrey;
+}
