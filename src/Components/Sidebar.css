@@ -23,6 +23,7 @@
 }
 .sidebar-header {
     margin-top: 10px;
+    font-size: 3vw;
 }
 .player-icon {
     margin: 0;
@@ -47,4 +48,5 @@
 }
 .player-name {
     margin: 0 0 15px 0;
+    font-size: 3vw;
 }
