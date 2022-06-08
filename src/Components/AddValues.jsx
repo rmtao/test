@@ -1,4 +1,5 @@
 import React from "react";
+import { Keyboard } from 'react-native'; 
 
 import './AddValues.css';
 
@@ -21,7 +22,7 @@ function AddValues({setPlayers, players}) {
           setPlayers([...players, {'name': e.target.value, 'color': color[players.length]}]);
           e.target.value = "";
         } 
-      }}/>
+      }} onSubmitEditing={() => Keyboard.dismiss()}/>
     </div>
   );
 }
