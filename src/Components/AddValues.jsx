@@ -18,13 +18,10 @@ function AddValues({setPlayers, players}) {
         ))}
       </ul>
       <input type="text" onKeyDown={(e) => {
-        if (e.code === "Enter" && e.target.value !== "") {
+        if ((e.code === "Enter" || e.key ==="Enter") && e.target.value !== "") {
           setPlayers([...players, {'name': e.target.value, 'color': color[players.length]}]);
           e.target.value = "";
         } 
-      }} onSubmitEditing={(e) => {
-        console.log(e);
-        console.log("heyyy");
       }}/>
     </div>
   );
