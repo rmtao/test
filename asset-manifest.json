@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/react-test2/static/css/main.9c5831cd.chunk.css",
-    "main.js": "/react-test2/static/js/main.62e41216.chunk.js",
-    "main.js.map": "/react-test2/static/js/main.62e41216.chunk.js.map",
-    "runtime-main.js": "/react-test2/static/js/runtime-main.830ddabb.js",
-    "runtime-main.js.map": "/react-test2/static/js/runtime-main.830ddabb.js.map",
-    "static/js/2.3b083dc6.chunk.js": "/react-test2/static/js/2.3b083dc6.chunk.js",
-    "static/js/2.3b083dc6.chunk.js.map": "/react-test2/static/js/2.3b083dc6.chunk.js.map",
-    "static/js/3.6063d645.chunk.js": "/react-test2/static/js/3.6063d645.chunk.js",
-    "static/js/3.6063d645.chunk.js.map": "/react-test2/static/js/3.6063d645.chunk.js.map",
+    "main.js": "/react-test2/static/js/main.a0d7ceb3.chunk.js",
+    "main.js.map": "/react-test2/static/js/main.a0d7ceb3.chunk.js.map",
+    "runtime-main.js": "/react-test2/static/js/runtime-main.03286bdf.js",
+    "runtime-main.js.map": "/react-test2/static/js/runtime-main.03286bdf.js.map",
+    "static/js/2.d536c770.chunk.js": "/react-test2/static/js/2.d536c770.chunk.js",
+    "static/js/2.d536c770.chunk.js.map": "/react-test2/static/js/2.d536c770.chunk.js.map",
+    "static/js/3.26ba39b4.chunk.js": "/react-test2/static/js/3.26ba39b4.chunk.js",
+    "static/js/3.26ba39b4.chunk.js.map": "/react-test2/static/js/3.26ba39b4.chunk.js.map",
     "index.html": "/react-test2/index.html",
     "static/css/main.9c5831cd.chunk.css.map": "/react-test2/static/css/main.9c5831cd.chunk.css.map",
-    "static/js/2.3b083dc6.chunk.js.LICENSE.txt": "/react-test2/static/js/2.3b083dc6.chunk.js.LICENSE.txt",
+    "static/js/2.d536c770.chunk.js.LICENSE.txt": "/react-test2/static/js/2.d536c770.chunk.js.LICENSE.txt",
     "static/media/3.gif": "/react-test2/static/media/3.29aece93.gif",
     "static/media/alcohol.gif": "/react-test2/static/media/alcohol.728c222b.gif",
     "static/media/alphabet.png": "/react-test2/static/media/alphabet.cc242411.png",
@@ -128,9 +128,9 @@
     "static/media/zodiac.png": "/react-test2/static/media/zodiac.a18408cb.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.830ddabb.js",
-    "static/js/2.3b083dc6.chunk.js",
+    "static/js/runtime-main.03286bdf.js",
+    "static/js/2.d536c770.chunk.js",
     "static/css/main.9c5831cd.chunk.css",
-    "static/js/main.62e41216.chunk.js"
+    "static/js/main.a0d7ceb3.chunk.js"
   ]
 }
