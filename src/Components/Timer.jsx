@@ -42,7 +42,7 @@ function Timer() {
         <div>
           <label>How many minutes: </label>
           <input type="number" onKeyPress={(e) => {
-            if (e.code === "Enter" && e.target.value !== "" && e.target.value > 0) {
+            if ((e.code === "Enter" || e.key === "Enter") && e.target.value !== "" && e.target.value > 0) {
               setSeconds(e.target.value*60);
               setShowTimer(true);
               setCountdown(true);
