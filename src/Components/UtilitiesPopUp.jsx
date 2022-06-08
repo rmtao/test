@@ -17,6 +17,11 @@ const UtilitiesPopUp = ({setPopUp, type, players}) => {
           </div>
         )}
         { type === "timer" && <Timer />}
+        { type === "reverse" && (
+          <div>
+            <p>Turn order reversed!</p>
+          </div>
+        )}
       </div>
     </div>
   );

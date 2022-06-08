@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import UtilitiesPopUp from './UtilitiesPopUp';
 import './UtilitiesSidebar.css';
 
-function UtilitiesSidebar({players}) {
+function UtilitiesSidebar({players, setPlayers}) {
   const [popUp, setPopUp] = useState(false);
   const [type, setType] = useState("");
 
@@ -18,8 +18,13 @@ function UtilitiesSidebar({players}) {
           setPopUp(true);
           setType("random");
         }}><i className="fa fa-random"></i> Random</button>
+        <button onClick={() => {
+          setPopUp(true);
+          setType("reverse");
+          setPlayers(players.concat(players.splice(0,1)).reverse());
+        }}><i className="fa fa-random"></i> Reverse</button>
       </div>
-      { popUp && <UtilitiesPopUp setPopUp={setPopUp} type={type} players={players}/>}
+      { popUp && <UtilitiesPopUp setPopUp={setPopUp} type={type} players={players} setPlayers={setPlayers} />}
     </div> 
   );
 }

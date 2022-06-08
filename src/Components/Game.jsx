@@ -4,7 +4,7 @@ import './Game.css';
 
 import data from './Resources/card_data.json';
 
-function Game() {
+function Game({players, setPlayers}) {
 
   const loadedData = JSON.stringify(data);
   const card_data = JSON.parse(loadedData).cards;
@@ -27,6 +27,9 @@ function Game() {
     }
     setIndex(index + 1);
     setCard(card_data[cards[index + 1]]);
+    if (onLastCard) {
+      setPlayers(players.concat(players.splice(0,1)));
+    }
   }
 
   const back = () => {
@@ -44,7 +47,6 @@ function Game() {
 
   return (
     <div>
-      
       <button onClick={back} disabled={onFirstCard}>back</button>
       <button onClick={skip} disabled={!onLastCard}>skip</button>
       <button onClick={next}>next</button>  
