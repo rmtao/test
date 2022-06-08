@@ -31,8 +31,9 @@ function App() {
         { playing && (
           <div>
             <Sidebar players={players} />
-            <Game />
-            <UtilitiesSidebar players={players} />
+            <UtilitiesSidebar players={players} setPlayers={setPlayers} />
+            <Game players={players} setPlayers={setPlayers} />
+            
           </div>
         )}
       </div>

@@ -2,10 +2,10 @@
     position: fixed;
 
     right: 1%;
-    top: 20%;
+    top: auto;
 
     width: 14%;
-    height: 50%;
+    height: auto;
     padding:1% 2%;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     transition: 0.3s;
