@@ -22,7 +22,10 @@ function AddValues({setPlayers, players}) {
           setPlayers([...players, {'name': e.target.value, 'color': color[players.length]}]);
           e.target.value = "";
         } 
-      }} onSubmitEditing={() => Keyboard.dismiss()}/>
+      }} onSubmitEditing={(e) => {
+        console.log(e);
+        console.log("heyyy");
+      }}/>
     </div>
   );
 }
