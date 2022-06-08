@@ -13,7 +13,7 @@ const UtilitiesPopUp = ({setPopUp, type, players}) => {
         { type === "random" && (
           <div>
             <h4>The Random Player is:</h4>
-            <p>{players[Math.floor(Math.random() * players.length)]}</p>
+            <p>{players[Math.floor(Math.random() * players.length)].name}</p>
           </div>
         )}
         { type === "timer" && <Timer />}
