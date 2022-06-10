@@ -244,7 +244,7 @@
 			"type": "curse",
 			"text": "Keep one eye closed for 2 rounds; if you mess up take 1 drink and start over.",
 			"expire": 2,
-			"image": "eye",
+			"image": "eye.png",
 			"alt": "eye eye captain"
 		},
 		{
